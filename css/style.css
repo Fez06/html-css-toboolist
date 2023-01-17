@@ -4,6 +4,14 @@
     border-radius: 4px;
 }
 
+body {
+    background-color: #F6F8F9;
+}
+
+header {
+    background-color: white;
+}
+
 h1, img {
     display: inline-block;
     vertical-align: middle;
@@ -20,7 +28,7 @@ h1 {
 
 #app {
     width: 60%;
-    background-color: aquamarine;
+    background-color: white;
     margin: auto;
     margin-top: 40px;
     border: 1px solid #c8ced3;
