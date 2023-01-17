@@ -61,9 +61,17 @@ button {
     color: #C8CED3;
 }
 
-.freccia {
-    font-size: small;
-    display: inline-block;
-    transform: rotate(315deg);
+h3::before {
+    content: '\25bc';
     vertical-align: middle;
+    padding-right: 10px;
+}
+
+ul { 
+    list-style-type: none;
+}
+
+.done::before {
+    content: '\2713';
+
 }
