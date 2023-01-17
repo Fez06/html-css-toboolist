@@ -61,4 +61,9 @@ button {
     color: #C8CED3;
 }
 
-
+.freccia {
+    font-size: small;
+    display: inline-block;
+    transform: rotate(315deg);
+    vertical-align: middle;
+}
