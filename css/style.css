@@ -1,6 +1,16 @@
 * {
     margin: 0;
 }
-h1 {
+
+h1, img {
     display: inline-block;
+    vertical-align: middle;
+}
+
+img {
+    padding: 10px 0px 10px 20px;
+}
+
+h1 {
+    font-size: 50px;
 }
