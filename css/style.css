@@ -36,16 +36,18 @@ nav, main {
 
 nav {
     border-bottom: 1px solid #c8ced3;
+    padding-left: 60px;
 }
 
 main {
     margin-top: 0px;
-    border-right: 60px;
+    padding-left: 60px;   
+    padding-bottom: 40px; 
 }
 
 button {
     padding: 5px 10px;
-    margin: 20px 0px 10px 60px;
+    margin: 20px 0px 10px 0px;
     font-weight: bold;
     border: 1px solid #c8ced3;
 }
@@ -106,6 +108,7 @@ ul {
 
 li {
     margin: 10px 10px;
+    margin-left: 0px;
 }
 
 li span {
