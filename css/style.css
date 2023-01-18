@@ -70,9 +70,9 @@ h3 {
 }
 
 h3::before {
-    content: '\25bc';
+    content: '\25be';
     vertical-align: middle;
-    padding-right: 10px;
+    margin-right: 10px;
 }
 
 ul { 
